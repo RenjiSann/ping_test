@@ -7,3 +7,10 @@ echo "c'est bon les pommes" >> dossier_tarte/pommes
 echo "fichier tres tres nul " >> nul
 
 echo "VROOM" >> dossier_tarte/nul
+
+
+# Trash files
+mkdir here
+echo xxxx > here/todel
+mkdir here/todel_folder
+echo zzzz > here/todel_folder/youpiiiiiii
