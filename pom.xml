@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns="http://maven.apache.org/POM/4.0.0"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<modelVersion>4.0.0</modelVersion>
+
+<groupId>fr.test.app_test1</groupId>
+<artifactId>my-app</artifactId>
+<version>1</version>
+
+<properties>
+    <maven.compiler.source>16</maven.compiler.source>
+    <maven.compiler.target>16</maven.compiler.target>
+
+    <versions.jackson>2.13.3</versions.jackson>
+    <versions.logback>1.2.11</versions.logback>
+    <versions.lombok>1.18.24</versions.lombok>
+    <versions.lucene>9.2.0</versions.lucene>
+    <versions.maven.compat>3.8.5</versions.maven.compat>
+    <versions.jgit>6.1.0.202203080745-r</versions.jgit>
+    <versions.common.compress>1.21</versions.common.compress>
+</properties>
+    </project>
